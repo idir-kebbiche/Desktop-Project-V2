@@ -1,0 +1,155 @@
+﻿<Window x:Class="GestionMedecin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:emoji="clr-namespace:Emoji.Wpf;assembly=Emoji.Wpf"
+        xmlns:local="clr-namespace:GestionMedecin"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Menu Grid.Row="0">
+            <MenuItem Header="🏥 Accueil" >
+                <MenuItem Header="Enrengistrer"/>
+                <MenuItem Header="Importer"/>
+                <MenuItem Header="Fermer"/>
+            </MenuItem>
+            <MenuItem Header="Listes">
+                <MenuItem Header="Spécialités"/>
+                <MenuItem Header="Medecins"/>
+                <MenuItem Header="Consultations"/>
+            </MenuItem>
+            <MenuItem Header="Spécialité">
+                <MenuItem Header="ajoutée"/>
+                <MenuItem Header="modifiée"/>
+                <MenuItem Header="supprimée"/>
+            </MenuItem>
+            <MenuItem Header="Medecin">
+                <MenuItem Header="ajoutée"/>
+                <MenuItem Header="modifiée"/>
+                <MenuItem Header="supprimée"/>
+            </MenuItem>
+        </Menu>
+        <ToolBarTray Grid.Row="1">
+            <ToolBar>
+                <DockPanel>
+                    <StackPanel DockPanel.Dock="Left" Orientation="Horizontal">
+                        <Button x:Name="AddConsultation" ToolTip="ajouter une consultation" Content="➕" Width="30" Click="AddConsultation_Click"/>
+                        <Label Content="Consultation" Width="100"/>
+                    </StackPanel>
+                    <StackPanel DockPanel.Dock="Right"  Orientation="Horizontal">
+                        <TextBox Width="200" Margin="4"/>
+                        <Button x:Name="Sherch" ToolTip="chercher" Content="🔎" Width="30" Margin="4"/>
+                    </StackPanel>
+                </DockPanel>
+            </ToolBar>
+        </ToolBarTray>
+        <TabControl Grid.Row="2">
+            <TabItem Header="Spécialité 🧠">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="4">
+                        <Label Content="Identifiant" Width="100" FontWeight="Bold"/>
+                        <TextBox x:Name="tbIdSpe" Width="200" MaxLength="5"/>
+                    </StackPanel>
+                    <StackPanel Grid.Row="2" Orientation="Horizontal" Margin="4">
+                        <Label Content="Nom" Width="100" FontWeight="Bold"/>
+                        <TextBox x:Name="tbNameSpe" Width="200"/>
+                    </StackPanel>
+                    <StackPanel Grid.Column="3" Grid.Row="1" Orientation="Horizontal" Margin="4">
+                        <Label Content="Description" Width="100" FontWeight="Bold"/>
+                        <TextBox x:Name="tbDescriptionSpe" Width="250" MaxLength="200"/>
+                    </StackPanel>
+                    <StackPanel Grid.Row="5" Orientation="Horizontal"  Grid.RowSpan="2" Margin="4">
+                        <Button x:Name="BtnAdd" Content="Ajouter" Margin="2" Width="100" HorizontalAlignment="Right" Click="BtnAdd_Click"/>
+                        <Button x:Name="BtnUpdate" Content=" Modifier" Margin="2" Width="100" HorizontalAlignment="Right" Click="BtnUpdate_Click"/>
+                        <Button x:Name="BtnDelete" Content="Supprimer" Margin="2" Width="100" HorizontalAlignment="Right" Click="BtnDelete_Click"/>
+                    </StackPanel>
+                    <DataGrid Name="dgSimple" Grid.ColumnSpan="2" Grid.Row="7" Background="LightGray" RowBackground="LightYellow" AlternatingRowBackground="LightBlue" HorizontalScrollBarVisibility="Visible"  SelectionMode="Single" VerticalScrollBarVisibility="Visible"  BorderBrush="Gray"  BorderThickness="5" IsReadOnly="True" CanUserSortColumns = "False"   AreRowDetailsFrozen="True" CanUserResizeColumns="False"  CanUserReorderColumns="True"  FrozenColumnCount="2">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID " Binding="{Binding Path=IdSpe}"/>
+                            <DataGridTextColumn Header="Nom " Binding="{Binding Path=NameSpe}"/>
+                            <DataGridTextColumn Header="Description" Binding="{Binding Path=DescriptionSpe}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Medecin 🔬" Height="20" VerticalAlignment="Top">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="4">
+                        <Label Content="Identifiant" Width="100" FontWeight="Bold"/>
+                        <TextBox x:Name="tbIdM" Width="200" MaxLength="5"/>
+                    </StackPanel>
+                    <StackPanel Grid.Row="2" Orientation="Horizontal" Margin="4">
+                        <Label Content="Nom" Width="100" FontWeight="Bold"/>
+                        <TextBox x:Name="tbNameM" Width="200"/>
+                    </StackPanel>
+                    <StackPanel Grid.Row="3" Orientation="Horizontal" Margin="4">
+                        <Label Content="Prenom" Width="100" FontWeight="Bold"/>
+                        <TextBox x:Name="tbPrenom" Width="200"/>
+                    </StackPanel>
+                    <StackPanel  Grid.Row="1" Grid.Column="1" Orientation="Horizontal" Margin="4">
+                        <Label Content="Spécialité" Width="100" FontWeight="Bold"/>
+                        <ComboBox x:Name="CbSpe" Width="200"/>
+                    </StackPanel>
+                    <StackPanel Grid.Row="2" Grid.Column="1" Orientation="Horizontal" Margin="4">
+                        <Label Content="Telephone" Width="100" FontWeight="Bold"/>
+                        <TextBox x:Name="tbTel" Width="200" MaxLength="10"/>
+                    </StackPanel>
+                    <StackPanel Grid.Row="3" Grid.Column="2" Orientation="Horizontal" Margin="4">
+                        <Label Content="Salaire" Width="100" FontWeight="Bold"/>
+                        <TextBox x:Name="tbSalaire" Width="200"/>
+                    </StackPanel>
+                    <StackPanel Grid.Row="5" Grid.Column="1" Orientation="Horizontal">
+                        <Button x:Name="BtnAdd2" Content="Ajouter" Margin="2" Width="100" HorizontalAlignment="Right" Click="BtnAdd2_Click"/>
+                        <Button x:Name="BtnUpdate2" Content=" Modifier" Margin="2" Width="100" HorizontalAlignment="Right" Click="BtnUpdate2_Click"/>
+                        <Button x:Name="BtnDelete2" Content="Supprimer" Margin="2" Width="100" HorizontalAlignment="Right" Click="BtnDelete2_Click"/>
+                    </StackPanel>
+                    <DataGrid Name="dgSimple2" Grid.ColumnSpan="2" Grid.Row="7" Background="LightGray" RowBackground="LightYellow" AlternatingRowBackground="LightBlue" HorizontalScrollBarVisibility="Visible"  SelectionMode="Single" VerticalScrollBarVisibility="Visible"  BorderBrush="Gray"  BorderThickness="5" IsReadOnly="True" CanUserSortColumns = "False"   AreRowDetailsFrozen="True" CanUserResizeColumns="False"  CanUserReorderColumns="True"  FrozenColumnCount="2">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID " Binding="{Binding Path=IdMed}"/>
+                            <DataGridTextColumn Header="Nom " Binding="{Binding Path=NameMed}"/>
+                            <DataGridTextColumn Header="Prenom" Binding="{Binding Path=PrenomMed}"/>
+                            <DataGridTextColumn Header="Specialite " Binding="{Binding Path=SpeMed}"/>
+                            <DataGridTextColumn Header="Telephone" Binding="{Binding Path=TelMed}"/>
+                            <DataGridTextColumn Header="Salaire" Binding="{Binding Path=SalaireMed}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

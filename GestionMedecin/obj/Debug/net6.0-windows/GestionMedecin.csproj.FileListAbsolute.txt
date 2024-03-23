@@ -1,0 +1,143 @@
+C:\Users\Massinissa\source\repos\GestionMedecin\bin\Debug\net6.0-windows\GestionMedecin.exe
+C:\Users\Massinissa\source\repos\GestionMedecin\bin\Debug\net6.0-windows\GestionMedecin.deps.json
+C:\Users\Massinissa\source\repos\GestionMedecin\bin\Debug\net6.0-windows\GestionMedecin.runtimeconfig.json
+C:\Users\Massinissa\source\repos\GestionMedecin\bin\Debug\net6.0-windows\GestionMedecin.dll
+C:\Users\Massinissa\source\repos\GestionMedecin\bin\Debug\net6.0-windows\GestionMedecin.pdb
+C:\Users\Massinissa\source\repos\GestionMedecin\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Massinissa\source\repos\GestionMedecin\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Massinissa\source\repos\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin_MarkupCompile.cache
+C:\Users\Massinissa\source\repos\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin_MarkupCompile.lref
+C:\Users\Massinissa\source\repos\GestionMedecin\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Massinissa\source\repos\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.g.resources
+C:\Users\Massinissa\source\repos\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Massinissa\source\repos\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.AssemblyInfoInputs.cache
+C:\Users\Massinissa\source\repos\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.AssemblyInfo.cs
+C:\Users\Massinissa\source\repos\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.csproj.CoreCompileInputs.cache
+C:\Users\Massinissa\source\repos\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.dll
+C:\Users\Massinissa\source\repos\GestionMedecin\obj\Debug\net6.0-windows\refint\GestionMedecin.dll
+C:\Users\Massinissa\source\repos\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.pdb
+C:\Users\Massinissa\source\repos\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.genruntimeconfig.cache
+C:\Users\Massinissa\source\repos\GestionMedecin\obj\Debug\net6.0-windows\ref\GestionMedecin.dll
+C:\Users\Massinissa\source\repos\GestionMedecin\bin\Debug\net6.0-windows\Emoji.Wpf.dll
+C:\Users\Massinissa\source\repos\GestionMedecin\bin\Debug\net6.0-windows\Typography.GlyphLayout.dll
+C:\Users\Massinissa\source\repos\GestionMedecin\bin\Debug\net6.0-windows\Typography.OpenFont.dll
+C:\Users\Massinissa\source\repos\GestionMedecin\bin\Debug\net6.0-windows\Stfu.dll
+C:\Users\Massinissa\source\repos\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.csproj.AssemblyReference.cache
+C:\Users\Massinissa\source\repos\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.csproj.CopyComplete
+C:\Users\Massinissa\source\repos\GestionMedecin\obj\Debug\net6.0-windows\WinConsultation.g.cs
+C:\Users\Massinissa\source\repos\GestionMedecin\obj\Debug\net6.0-windows\WinConsultation.baml
+<<<<<<< HEAD
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\GestionMedecin.exe
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\GestionMedecin.deps.json
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\GestionMedecin.runtimeconfig.json
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\GestionMedecin.dll
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\GestionMedecin.pdb
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Emoji.Wpf.dll
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Typography.GlyphLayout.dll
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Typography.OpenFont.dll
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Stfu.dll
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.csproj.AssemblyReference.cache
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\WinConsultation.g.cs
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin_MarkupCompile.cache
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin_MarkupCompile.lref
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\WinConsultation.baml
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.g.resources
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.AssemblyInfoInputs.cache
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.AssemblyInfo.cs
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.csproj.CoreCompileInputs.cache
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.csproj.CopyComplete
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.dll
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\refint\GestionMedecin.dll
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.pdb
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.genruntimeconfig.cache
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\ref\GestionMedecin.dll
+=======
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\GestionMedecin.exe
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\GestionMedecin.deps.json
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\GestionMedecin.runtimeconfig.json
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\GestionMedecin.dll
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\GestionMedecin.pdb
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Emoji.Wpf.dll
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Typography.GlyphLayout.dll
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Typography.OpenFont.dll
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Stfu.dll
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\WinConsultation.g.cs
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin_MarkupCompile.cache
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin_MarkupCompile.lref
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\WinConsultation.baml
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.g.resources
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.AssemblyInfoInputs.cache
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.AssemblyInfo.cs
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.csproj.CopyComplete
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.dll
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\refint\GestionMedecin.dll
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.pdb
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.genruntimeconfig.cache
+C:\Users\dell\Downloads\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\ref\GestionMedecin.dll
+>>>>>>> 933a2a2900f86a98991ebceebc8ca2f54b7fa9ec
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Massinissa\OneDrive\Bureau\allo\librarymanagement-ua3-Massinjouba\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+F:\Desktop V2\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\GestionMedecin.exe
+F:\Desktop V2\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\GestionMedecin.deps.json
+F:\Desktop V2\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\GestionMedecin.runtimeconfig.json
+F:\Desktop V2\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\GestionMedecin.dll
+F:\Desktop V2\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\GestionMedecin.pdb
+F:\Desktop V2\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Emoji.Wpf.dll
+F:\Desktop V2\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Typography.GlyphLayout.dll
+F:\Desktop V2\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Typography.OpenFont.dll
+F:\Desktop V2\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\EPPlus.dll
+F:\Desktop V2\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+F:\Desktop V2\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+F:\Desktop V2\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+F:\Desktop V2\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Desktop V2\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Desktop V2\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+F:\Desktop V2\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Desktop V2\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Desktop V2\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Desktop V2\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+F:\Desktop V2\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+F:\Desktop V2\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\Stfu.dll
+F:\Desktop V2\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+F:\Desktop V2\GesMedecin\GestionMedecin\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+F:\Desktop V2\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.csproj.AssemblyReference.cache
+F:\Desktop V2\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\Desktop V2\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\WinConsultation.g.cs
+F:\Desktop V2\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\App.g.cs
+F:\Desktop V2\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin_MarkupCompile.cache
+F:\Desktop V2\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin_MarkupCompile.lref
+F:\Desktop V2\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\MainWindow.baml
+F:\Desktop V2\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\WinConsultation.baml
+F:\Desktop V2\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.g.resources
+F:\Desktop V2\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop V2\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.AssemblyInfoInputs.cache
+F:\Desktop V2\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.AssemblyInfo.cs
+F:\Desktop V2\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.csproj.CoreCompileInputs.cache
+F:\Desktop V2\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.csproj.CopyComplete
+F:\Desktop V2\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.dll
+F:\Desktop V2\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\refint\GestionMedecin.dll
+F:\Desktop V2\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.pdb
+F:\Desktop V2\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\GestionMedecin.genruntimeconfig.cache
+F:\Desktop V2\GesMedecin\GestionMedecin\obj\Debug\net6.0-windows\ref\GestionMedecin.dll
